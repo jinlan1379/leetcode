@@ -1,5 +1,8 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="http://code.alibabatech.com/schema/dubbo" />
+    <ignored-resource url="http://code.alibabatech.com/schema/dubbo/dubbo.xsd" />
     <ignored-resource url="http://dubbo.apache.org/schema/dubbo" />
+    <ignored-resource url="http://www.springframework.org/schema/p" />
   </component>
 </application>
