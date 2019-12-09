@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="LinedList" type="JAVA" />
-      <mapping pattern="Readme" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
